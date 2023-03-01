@@ -1,0 +1,1 @@
+projeyi çalıştırmak için tesseract kütüphanesi kurulmalı ve kaynak kod dosyasında "tesseract.exe" dosya yolu belirtilmelidir terminal üzerinden "python proje.py" şeklinde çalıştırılabilir
